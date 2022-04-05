@@ -18,6 +18,11 @@ html {
   padding: 5rem 0;
 }
 
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
 .wrapper {
   width: 100%;
   background-color: #24292d;
@@ -254,7 +259,7 @@ button:hover {
 
 .projects img {
   width: 100%;
-  margin-bottom: 2rem;
+  height: 400px;
 }
 
 .projects a {
